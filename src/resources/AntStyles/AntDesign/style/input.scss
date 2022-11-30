@@ -1,0 +1,14 @@
+// Import mixins from "core" module
+@import '../../../mixins';
+
+/////////////////////////////////////////////////////////////////////////////////////////
+/*  ANT DESIGN INPUT */
+
+.ant-input-disabled {
+  background: $gray-lighten-more-more;
+}
+
+.logo-uploader > .ant-upload {
+  height: 178px;
+  width: 100%;
+}
