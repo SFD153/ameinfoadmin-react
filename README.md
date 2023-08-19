@@ -1,4 +1,4 @@
-# AMEInfo Frontend Pages in React
+# Overview
 
 This repository contains the admin pages for the AMEInfo business news website. The repository is an admin dashboard designed to manage the AMEinfo API and client. The website delivers daily news wires, analysis, special reports, and microsites via video, audio, mobile, RSS, email, and other channels.
 
